@@ -31,7 +31,7 @@ PUB_TYPES = {
     "mastersthesis": 7,
     "misc": 9,
     "phdthesis": 7,
-    "proceedings": 0,
+    "proceedings": 1,
     "techreport": 4,
     "unpublished": 3,
     "patent": 8,
