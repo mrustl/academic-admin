@@ -24,6 +24,7 @@ from bibtexparser.customization import convert_to_unicode
 PUB_TYPES = {
     "article": 2,
     "book": 5,
+    "conference": 1,
     "inbook": 6,
     "incollection": 6,
     "inproceedings": 1,
