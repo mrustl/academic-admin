@@ -30,7 +30,7 @@ PUB_TYPES = {
     "inproceedings": 1,
     "manual": 4,
     "mastersthesis": 7,
-    "misc": 9,
+    "misc": 0,
     "phdthesis": 7,
     "proceedings": 1,
     "techreport": 4,
